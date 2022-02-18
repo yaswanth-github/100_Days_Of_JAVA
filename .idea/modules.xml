@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JAVA/CONDITIONAL STATEMENTS.iml" filepath="$PROJECT_DIR$/JAVA/CONDITIONAL STATEMENTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_JAVA/FUNCTIONS.iml" filepath="$PROJECT_DIR$/_JAVA/FUNCTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" filepath="$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JAVA/LOOPS.iml" filepath="$PROJECT_DIR$/JAVA/LOOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/LOOPS.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/LOOPS.iml" />
     </modules>
   </component>
 </project>
