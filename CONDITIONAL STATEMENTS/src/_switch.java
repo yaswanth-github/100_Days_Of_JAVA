@@ -14,7 +14,5 @@ public class _switch {
             case 4 -> System.out.println("Ravenclaw");
             default -> System.out.println("entered input is wrong");
         }
-
     }
-
 }
