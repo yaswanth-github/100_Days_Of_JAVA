@@ -5,11 +5,11 @@ public class LQ2 {
         Circle obj1 = new Circle();
         obj1.Area(3);
 
-        Rectangle obj = new Rectangle();
-        obj.Area(30,20);
-
-        Triangle obj2 = new Triangle();
+        Rectangle obj2 = new Rectangle();
         obj2.Area(30,20);
+
+        Triangle obj3 = new Triangle();
+        obj3.Area(30,20);
     }
 }
 
@@ -20,7 +20,7 @@ class Circle
     void Area(double r)
     {
         double A = PI * r * r;
-        System.out.println("The area of the circle is :" + A);
+        System.out.println("Area of the circle is :" + A);
     }
 }
 
