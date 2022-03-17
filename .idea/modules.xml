@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/ABSTRACTION AND ENCAPSULATION.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/ABSTRACTION AND ENCAPSULATION.iml" />
       <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" filepath="$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" />
