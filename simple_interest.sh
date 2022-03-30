@@ -1,13 +1,25 @@
-SIMPLE INTEREST
+# This script calculates simple interest given principal,
+# annual rate of interest and time period in years.
 
-Simple interest is interest calculated on the principal portion of a loan or the original contribution to a savings account. Simple interest does not compound, meaning that an account holder will only gain interest on the principal, and a borrower will never have to pay interest on interest already accrued.
+# Do not use this in production. Sample purpose only.
 
-You can calculate simple interest in a savings account by multiplying the account balance by the interest rate by the time period the money is in the account.
+# Author: LNVY
 
-Here's the simple interest formula: Interest = P x R x N.
+# Input:
+# p, principal amount
+# t, time period in years
+# r, annual rate of interest
 
-P = Principal amount (the beginning balance).
+# Output:
+# simple interest = p*t*r
 
-R = Interest rate (usually per year, expressed as a decimal).
+echo"Enter the principal:"
+read p    
+echo"Enter rate of interest per year:"
+read r    
+echo"Enter time period in years:"
+read t     
 
-N = Number of time periods (generally one-year time periods).
+s=`expr $p \* $t \* $r / 100`    
+echo"The simple interest is: "
+echo$s
