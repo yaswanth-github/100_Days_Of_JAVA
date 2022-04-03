@@ -1,3 +1,5 @@
+package JAVA_CA1.com;
+
 public class SQ4 {
     public static void main(String arg[])
     {

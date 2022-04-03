@@ -1,3 +1,4 @@
+package Arrays.com;
 import java.util.ArrayList;
 
 public class _1D_Array {

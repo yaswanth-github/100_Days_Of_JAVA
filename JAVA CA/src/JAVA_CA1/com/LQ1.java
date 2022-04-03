@@ -1,3 +1,5 @@
+package JAVA_CA1.com;
+
 import java.util.Scanner;
 
 public class LQ1 {

@@ -1,3 +1,4 @@
+package JAVA_CA1.com;
 public class LQ2 {
 
     public static void main(String[] args)

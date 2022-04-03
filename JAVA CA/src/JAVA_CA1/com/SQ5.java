@@ -1,3 +1,5 @@
+package JAVA_CA1.com;
+
 public class SQ5 {
     public static void main(String arg[]) {
         int A=10,B=0;
