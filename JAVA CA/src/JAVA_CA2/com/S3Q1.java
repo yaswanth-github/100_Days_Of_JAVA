@@ -1,6 +1,4 @@
 package JAVA_CA2.com;
-import java.util.*;
-
 
 public class S3Q1 {
     public static void main(String[] args) {
