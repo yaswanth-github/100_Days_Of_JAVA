@@ -1,10 +1,13 @@
 package JAVA_CA2.com;
 
+import java.util.Scanner;
+
 public class S3Q1 {
     public static void main(String[] args) {
-        String name = "John Matthew Adams";
-        System.out.println("The full name is: " + name);
-        System.out.print("Initials with surname is: ");
+        Scanner input = new Scanner(System.in);
+        System.out.println("Enter The full Name ::");
+        String name=input.nextLine();
+        System.out.print("Initials with surname is : ");
         int len = name.length();
         name = name.trim();
         String str1 = "";

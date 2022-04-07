@@ -25,7 +25,9 @@ public class S3Q2 {
 
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
+            System.out.println("Enter String a ::");
             String a=input.nextLine();
+            System.out.println("Enter String b ::");
             String b=input.nextLine();
             isAnagram(a,b);
         }

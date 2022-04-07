@@ -2,13 +2,13 @@ package JAVA_CA2.com;
 import java.util.*;
 public class S2Q1 {
         public static void main(String args[]) {
-            Scanner s = new Scanner(System.in);
+            Scanner input = new Scanner(System.in);
             ArrayList<Integer> list = new ArrayList<>();
             System.out.println("Enter Array Length ::");
-            int n = s.nextInt();
+            int n = input.nextInt();
             for (int i = 0; i < n; i++)
             {
-                list.add(s.nextInt());
+                list.add(input.nextInt());
             }
             reverseArrayList(list);
             for (int i = 0; i < list.size(); i++)
@@ -25,6 +25,4 @@ public class S2Q1 {
                 temp = list.get(leftIndex);
                 list.set(leftIndex++, list.get(rightIndex));
                 list.set(rightIndex--, temp);
-            }
-        }
-}
+            }}}
