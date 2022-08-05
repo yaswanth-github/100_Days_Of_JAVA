@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "FUNCTIONS/src",
         "Abstraction/src",
-        "FUNCTIONS/src"
+        "Data Structures"
     ]
 }
