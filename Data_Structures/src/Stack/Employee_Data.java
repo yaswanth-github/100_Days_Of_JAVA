@@ -1,3 +1,5 @@
+package Stack;
+
 class Employee{
     int empid;
     float salary;
