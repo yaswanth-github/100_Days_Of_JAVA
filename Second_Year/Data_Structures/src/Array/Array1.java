@@ -8,6 +8,8 @@ public class Array1 {
         a[2]=3;
         a[3]=4;
         a[4]=5;
-        System.out.println(a[4]);
+        for (int i=0; i<5;++i){
+            System.out.println(a[i]);
+        }
     }
 }

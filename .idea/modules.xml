@@ -2,21 +2,23 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/ABSTRACTION AND ENCAPSULATION.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/ABSTRACTION AND ENCAPSULATION.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/Abstraction/Abstraction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lists/ArrayList.iml" filepath="$PROJECT_DIR$/Lists/ArrayList.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Data_Structures/Data_Structures.iml" filepath="$PROJECT_DIR$/Data_Structures/Data_Structures.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Design and Analysis of Algorithms/Design and Analysis of Algorithms.iml" filepath="$PROJECT_DIR$/Design and Analysis of Algorithms/Design and Analysis of Algorithms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/Encapsulation/Encapsulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" filepath="$PROJECT_DIR$/FUNCTIONS/FUNCTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/ABSTRACTION AND ENCAPSULATION.iml" filepath="$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/ABSTRACTION AND ENCAPSULATION.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/Abstraction/Abstraction.iml" filepath="$PROJECT_DIR$/First_Year/Abstraction/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/Lists/ArrayList.iml" filepath="$PROJECT_DIR$/First_Year/Lists/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" filepath="$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/CONDITIONAL STATEMENTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second_Year/Data_Structures/Data_Structures.iml" filepath="$PROJECT_DIR$/Second_Year/Data_Structures/Data_Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second_Year/Design and Analysis of Algorithms/Design and Analysis of Algorithms.iml" filepath="$PROJECT_DIR$/Second_Year/Design and Analysis of Algorithms/Design and Analysis of Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/First_Year/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/FUNCTIONS/FUNCTIONS.iml" filepath="$PROJECT_DIR$/First_Year/FUNCTIONS/FUNCTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/First_Year.iml" filepath="$PROJECT_DIR$/First_Year/First_Year.iml" />
       <module fileurl="file://$PROJECT_DIR$/HackerRank/HackerRank.iml" filepath="$PROJECT_DIR$/HackerRank/HackerRank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/First_Year/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JAVA CA/JAVA CA.iml" filepath="$PROJECT_DIR$/JAVA CA/JAVA CA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/CONDITIONAL STATEMENTS/LOOPS.iml" filepath="$PROJECT_DIR$/CONDITIONAL STATEMENTS/LOOPS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lists/Lists.iml" filepath="$PROJECT_DIR$/Lists/Lists.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QUESTIONS/QUESTIONS.iml" filepath="$PROJECT_DIR$/QUESTIONS/QUESTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/JAVA CA/JAVA CA.iml" filepath="$PROJECT_DIR$/First_Year/JAVA CA/JAVA CA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/LOOPS.iml" filepath="$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/LOOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/Lists/Lists.iml" filepath="$PROJECT_DIR$/First_Year/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/First_Year/QUESTIONS/QUESTIONS.iml" filepath="$PROJECT_DIR$/First_Year/QUESTIONS/QUESTIONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Second_Year/Second_Year.iml" filepath="$PROJECT_DIR$/Second_Year/Second_Year.iml" />
     </modules>
   </component>
 </project>
