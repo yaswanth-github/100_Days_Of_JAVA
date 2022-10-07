@@ -17,9 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_Year/JAVA CA/JAVA CA.iml" filepath="$PROJECT_DIR$/First_Year/JAVA CA/JAVA CA.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/LOOPS.iml" filepath="$PROJECT_DIR$/First_Year/CONDITIONAL STATEMENTS/LOOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/LeetCode.iml" filepath="$PROJECT_DIR$/LeetCode/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_Year/Lists/Lists.iml" filepath="$PROJECT_DIR$/First_Year/Lists/Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_Year/QUESTIONS/QUESTIONS.iml" filepath="$PROJECT_DIR$/First_Year/QUESTIONS/QUESTIONS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Second_Year/Second_Year.iml" filepath="$PROJECT_DIR$/Second_Year/Second_Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode/Weekly_Contests/Weekly_Contests.iml" filepath="$PROJECT_DIR$/LeetCode/Weekly_Contests/Weekly_Contests.iml" />
     </modules>
   </component>
 </project>
