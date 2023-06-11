@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/First_Year/Lists/Lists.iml" filepath="$PROJECT_DIR$/First_Year/Lists/Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/First_Year/QUESTIONS/QUESTIONS.iml" filepath="$PROJECT_DIR$/First_Year/QUESTIONS/QUESTIONS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Second_Year/Second_Year.iml" filepath="$PROJECT_DIR$/Second_Year/Second_Year.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TCS/TCS.iml" filepath="$PROJECT_DIR$/TCS/TCS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode/Weekly_Contests/Weekly_Contests.iml" filepath="$PROJECT_DIR$/LeetCode/Weekly_Contests/Weekly_Contests.iml" />
     </modules>
   </component>
